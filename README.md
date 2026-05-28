@@ -1,4 +1,4 @@
-# Hey, I'm Rashika Singh
+## Hey, I'm Rashika Singh
 
 AI Engineer building RAG pipelines, AI agents, and production LLM systems.
 Currently at Visa → Working on petabyte-scale AI-native data layers.
