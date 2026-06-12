@@ -16,10 +16,6 @@ Currently at Visa → Working on petabyte-scale AI-native data layers.
 - **[AI Data Pipeline Monitor]** - Monitors ETL pipelines for anomalies and generates natural-language alerts with root-cause analysis; reducing incident triage time by 50%; built with GPT-4, Kafka, Prometheus and Streamlit
 - **[SQL Copilot]** - LLM-powered assistant that converts natural-language questions into optimized SQL queries over BigQuery, reducing analyst query time by 60%
 
-## Open source contributions
-
-- Contributing to [LangChain](link) | [Hugging Face](link)
-
 ## Get in touch
 
 LinkedIn - www.linkedin.com/in/rashikasingh5
